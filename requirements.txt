@@ -1,0 +1,9 @@
+streamlit==1.32.0
+langchain==0.1.14
+langchain-community==0.0.31
+langchain-core==0.1.38
+langchain-groq==0.0.3
+langchain-ollama==0.0.4
+faiss-cpu==1.7.4
+pdfplumber==0.10.2
+python-dotenv==1.0.1
