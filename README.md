@@ -70,6 +70,3 @@ The system retrieves relevant sections from the uploaded document and generates 
 - Ensure the Ollama embedding model (`deepseek-r1:1.5b`) is available in your environment.
 - You can switch to other LLMs and embedding models with minor adjustments.
 
-## 📃 License
-
-This project is licensed under the MIT License.
